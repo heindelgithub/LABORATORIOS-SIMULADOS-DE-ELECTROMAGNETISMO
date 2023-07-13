@@ -22,3 +22,74 @@ También puede ser el siguiente enlace.
 
 https://github.com/ladino72/PhysLab
 
+Se presentan 11 prácticas simuladas, que se van a realizar, con diferentes tipos de software.
+
+Estas prácticas son las siguientes.
+
+
+1.	**LEY DE COULOMB**:
+
+Enlace:
+
+https://www.screencast.com/t/CoBgGpOH7c
+
+2.	**CAMPO ELÉCTRICO - POTENCIAL ELÉCTRICO Y LÍNEAS EQUIPOTENCIALES**.
+
+Enlace:
+
+https://www.screencast.com/t/FUVduD7pqt
+
+3.	**MOVIMIENTO DE UN ELECTRÓN EN UN CAMPO ELÉCTRICO**:
+
+Enlace: 
+
+https://www.screencast.com/t/eCfZF9LuuxMy
+
+4.	**EXPERIMENTO DE MILLIKAN**:
+
+Enlace:
+
+https://www.screencast.com/t/t4EnZKgmZa4
+
+5.	**CONDENSADOR DE PLACAS PARALELAS**:
+
+Enlace: 
+
+https://www.screencast.com/t/Grq2unmYQ8
+
+6.	**REDISTRIBUCIÓN DE CARGA EN CONDENSADORES**:
+
+Enlace:
+ 
+ https://www.screencast.com/t/mykPAYrGPPA
+
+7.	**RESISTIVIDAD-LEY DE OHM**:
+
+Enlace: 
+
+https://www.screencast.com/t/Mt71q9DJNZaV
+
+8.	**LEYES DE KIRCHHOFF**.
+
+Enlace:
+
+https://www.screencast.com/t/UfkpbpR5sjy
+
+9.	**CIRCUITO RC**.
+
+Enlace: 
+
+https://www.screencast.com/t/NFAnGVdP3iyb
+
+10.	**MOVIMIENTO DE PARTÍCULAS EN UN CAMPO MAGNÉTICO**.
+
+Enlace:
+ 
+https://www.screencast.com/t/YxHR1Qfn56
+
+11.	**CAMPO MAGNÉTICO CREADO POR UN ALAMBRE RECTO**.
+
+Enlace:
+
+https://www.screencast.com/t/jMhbBjcF3
+
